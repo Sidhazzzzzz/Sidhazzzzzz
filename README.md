@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h2>LeetCode Info</h2>
+  <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" />
+  <br>
+  <br>
+  <h2>My Info</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight" />
+</div>
 
-<!--
-**Sidhazzzzzz/Sidhazzzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+<h2 align="center">Leetcode Badges<h2>  
+<p align="center">
+  <a href="https://leetcode.com/Sidharzzzzz/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
+</p>
