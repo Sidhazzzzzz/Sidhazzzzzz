@@ -1,7 +1,7 @@
 <table border="0" cellpadding="15" cellspacing="0" width="100%">
   <tr>
     <td width="48%" valign="top">
-      <h2>Sidhartha Kedlaya</h2>
+      <h2>H Sidhartha Kedlaya</h2>
       <p>Computer Science & Engineering Student at PES University<br>
       <i>Specializing in Artificial Intelligence & Machine Learning</i></p>
       <details>
