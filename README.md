@@ -1,7 +1,7 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="45%" valign="top">
-      <h1>Sidhartha K. ⚡</h1>
+      <h1>Sidhartha Kedlaya H ⚡</h1>
       <p>🤖 <b>CSE / AI-ML Student</b> at PES University</p>
       <p><i>Building neural networks, competing in CP, and writing clean full-stack code.</i></p>
       <br />
