@@ -1,29 +1,35 @@
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="15" cellspacing="0" width="100%">
   <tr>
-    <td width="45%" valign="top">
-      <h1>Sidhartha Kedlaya H ⚡</h1>
-      <p>🤖 <b>CSE / AI-ML Student</b> at PES University</p>
-      <p><i>Building neural networks, competing in CP, and writing clean full-stack code.</i></p>
+    <td width="48%" valign="top">
+      <h2>Sidhartha Kedlaya</h2>
+      <p>Computer Science & Engineering Student at PES University<br>
+      <i>Specializing in Artificial Intelligence & Machine Learning</i></p>
+      
+      <p>Focused on deep learning frameworks, competitive programming workflows, and full-stack architecture.</p>
+      
       <br />
-      <h3>🛠️ Core Tech Stack</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <h4 style="letter-spacing: 1px; text-transform: uppercase; color: #565f89;">Core Technologies</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" />
       <br />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" />
+      
       <br /><br />
-      <h3>🏆 Achievements</h3>
+      <h4 style="letter-spacing: 1px; text-transform: uppercase; color: #565f89;">Certifications & Badges</h4>
       <a href="https://leetcode.com/Sidharzzzzz/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="95" />
+        <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="90" style="border-radius: 4px;" />
       </a>
     </td>
-    <td width="55%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-      <br />
+
+    <td width="52%" valign="middle" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight&hide_border=true" width="95%" />
+      
+      <br /><br />
       <a href="https://leetcode.com/Sidharzzzzz/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" width="100%" />
+        <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" width="95%" />
       </a>
     </td>
   </tr>
