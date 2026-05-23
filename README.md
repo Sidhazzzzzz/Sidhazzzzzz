@@ -1,7 +1,7 @@
 <table border="0" cellpadding="15" cellspacing="0" width="100%">
   <tr>
-    <td width="48%" valign="top">
-      <h2>Sidhartha Kedlaya</h2>
+    <td width="50%" valign="top">
+      <h2>H Sidhartha Kedlaya</h2>
       <p>Computer Science & Engineering Student at PES University<br>
       <i>Specializing in Artificial Intelligence & Machine Learning</i></p>
       <p>Focused on deep learning frameworks, competitive programming workflows, and full-stack architecture.</p>
@@ -20,11 +20,11 @@
         <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="90" style="border-radius: 4px;" />
       </a>
     </td>
-    <td width="52%" valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight&hide_border=true" width="95%" />
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
       <br /><br />
       <a href="https://leetcode.com/Sidharzzzzz/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" width="95%" />
+        <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" width="100%" />
       </a>
     </td>
   </tr>
