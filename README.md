@@ -52,7 +52,7 @@
         <tr>
           <td align="left" valign="center" style="color: #a9b1d6; font-size: 0.9em; line-height: 1.4;">
             <b>Algorithmic Mastery Track</b><br />
-            <span style="font-size: 0.85em; color: #565f89;">Princeton Algorithms I & II</span>
+            <span style="font-size: 0.85em; color: #565f89;">LeetCode Badges</span>
           </td>
           <td align="right">
             <a href="https://leetcode.com/Sidharzzzzz/" target="_blank">
