@@ -44,6 +44,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </a>
       <br /><br />
+      <div style="width: 100%; height: 110px; overflow: hidden; border-radius: 6px;">
+        <img src="https://raw.githubusercontent.com/Sidhazzzzzz/Sidhazzzzzz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 220%; max-width: none; margin-left: -60%;" />
+      </div>
+      <br />
       <a href="https://leetcode.com/Sidharzzzzz/" target="_blank">
         <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" width="100%" alt="LeetCode Heatmap & Problem Solving" />
       </a>
@@ -64,9 +68,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sidhazzzzzz/Sidhazzzzzz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-</div>
