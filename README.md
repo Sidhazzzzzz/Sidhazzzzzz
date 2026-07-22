@@ -17,7 +17,7 @@
       </p>
       <br />
       <h4 style="letter-spacing: 1.5px; text-transform: uppercase; color: #565f89; margin-bottom: 8px;">🛠️ Core Stack</h4>
-            <p style="margin-bottom: 6px; font-size: 0.85em; color: #7aa2f7; font-weight: bold;">AI / Machine Learning</p>
+      <p style="margin-bottom: 6px; font-size: 0.85em; color: #7aa2f7; font-weight: bold;">AI / Machine Learning</p>
       <p style="line-height: 1.8; margin-top: 0;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -43,7 +43,7 @@
       <a href="https://github.com/Sidhazzzzzz?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </a>
-            <br /><br />
+      <br /><br />
       <a href="https://leetcode.com/Sidharzzzzz/" target="_blank">
         <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" width="100%" alt="LeetCode Heatmap & Problem Solving" />
       </a>
@@ -64,3 +64,9 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sidhazzzzzz/Sidhazzzzzz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</div>
